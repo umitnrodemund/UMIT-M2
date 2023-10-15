@@ -1,4 +1,4 @@
-# UMIT-M2
+# Anastasiia Sushchenko - MMI_WS23_24
 
 Anastasiia Sushchenko
-Test project for Etivity 5 Module 2
+My Project: Implant compatibility checking software for use in OR
